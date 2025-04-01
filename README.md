@@ -64,6 +64,6 @@ pip install pandas sqlalchemy mysql-connector-python
 
 Project Deliverables:
 
-SQL Scripts for Data Analysis
-Python Scripts for Automation
+SQL Scripts for Data Analysis,
+Python Scripts for Automation,
 Insights Report with Key Findings
